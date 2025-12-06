@@ -13,17 +13,14 @@ Este proyecto implementa una Tabla Hash con Encadenamiento Separado desde cero e
 
 # Estructura del Proyecto
 HashMapProject/
-│
-├── src/
-│   └── estructuras/
-│       ├── Diccionario.java      # Interfaz base
-│       └── TablaHash.java        # Implementación completa
-│
-├── test/
-│   └── TestTablaHash.java        # Suite de pruebas
-│
-├── README.md                     # Este archivo
-└── .gitignore                    # Archivos a ignorar en Git
+    src/
+        estructuras/
+            Diccionario.java
+            TablaHash.java
+        test/
+            TestTablaHash.java
+README.md
+.gitignore
 
 # Compilación
 Compilar todas las clases
