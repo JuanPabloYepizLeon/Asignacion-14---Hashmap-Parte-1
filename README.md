@@ -109,7 +109,7 @@ Suite completa de pruebas que valida:
 8. Estrés: 1000 elementos para validar rendimiento
 9. Visualización: Estructura interna de la tabla
 
-#Ejemplo de Uso
+# Ejemplo de Uso
 // Crear una tabla hash
 TablaHash<String, Integer> inventario = new TablaHash<>();
 
